@@ -4,7 +4,7 @@ const nextConfig = {
     domains: ['iili.io'],
     unoptimized: true,
   },
-  output: 'export', // Add this line
+  // Add this line output: 'export',
 };
 
 module.exports = nextConfig
